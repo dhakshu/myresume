@@ -1,0 +1,21 @@
+.flex{
+  display:flex;
+  border:light;
+  flex-direction:column;
+  width:100%;
+  vertical-align:middle;
+  margin-left:auto;
+  margin-right:auto;
+}
+h1{
+  color:blue;
+  text-align:center;
+}
+h3{
+  display:block;
+  background-color:#dd;
+}
+table,tr,th,td{
+  border:solid;
+  text-align:center;
+}

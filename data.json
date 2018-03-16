@@ -1,0 +1,22 @@
+{
+  "basics":{
+    "objective":"all are true"
+  },
+  "education":[
+    {
+      "degree":"B.tech(computer science engineerig)",
+      "college":"klm college of engineerin",
+      "data":["2015-2019","75%"]
+    },
+    {
+      "degree":"state board intermediate",
+      "college":"sri chaithanya junior college",
+      "data":["2013-2014","88%"]
+    },
+    {
+      "degree":"ssc",
+      "school":"krrm high school",
+      "data":["2012-2013","87%"]
+    }
+  ]
+    }
